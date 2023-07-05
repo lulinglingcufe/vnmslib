@@ -29,6 +29,12 @@ Then you can use vnmslib in python.
 
 
 
+
+
+
+
+
+
 1.**Start the distributed Fabric network**：we have a cluster of IP 226,227,228,229,230
 
 The network configuration is in [baseline directory](/baseline) 
