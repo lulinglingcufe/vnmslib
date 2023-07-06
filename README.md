@@ -9,6 +9,12 @@ We also use the **Keccak-256** cryptographic hash function for VO generation.
 
 ---
 
+* We offer the source code of ANNProof in [source directory](source)
+
+* We offer the blockchain network and smart contract code in [blockchain  directory](/blockchain). 
+
+* We offer the benchmark script for baseline and ANNProof in [experiment directory](/experiment).  
+
 # Architecture
 
 * In step 1, SP receives the dataset from DP and builds the hierarchical navigable small world graphs (HNSW) index on the dataset.
@@ -44,7 +50,7 @@ We also use the **Keccak-256** cryptographic hash function for VO generation.
 
 # Quick Start
 
-##### 1.First, you can install vnmslib from source and compile the source code.
+#### 1.First, you can install vnmslib from source and compile the source code.
 
 ```
 git clone https://github.com/lulinglingcufe/vnmslib.git
@@ -57,7 +63,7 @@ cmake .
 make 
 ```
 
-###### 2.Then, you must compile the customized nmslib package we developed to use it within Python3.
+##### 2.Then, you must compile the customized nmslib package we developed to use it within Python3.
 
 To compile, go to the directory **source/python_bindings*** and type:
 
@@ -73,7 +79,7 @@ python3 setup.py install
 
 Delete the old compilation intermediate files, then copy the '**source/similarity_search**' folder to the '**source/python_bindings**' folder. Make sure that **pip3** has removed the old version of nmslib. Finally, use the **setup.py** script to install the customized version of nmslib.
 
-###### 3.Finally, you can use vnmslib in python.
+##### 3.Finally, you can use vnmslib in python.
 
 Go to the directory **experiment** and type:
 
