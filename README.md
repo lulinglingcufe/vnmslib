@@ -72,7 +72,7 @@ rm -R -f build
 rm -R -f dist
 rm -R -f nmslib.egg-info
 rm -R -f similarity_search
-cp -R ./similarity_search/  ./python_bindings/
+cp -R ../similarity_search/  ../python_bindings/
 pip3 uninstall  nmslib  -y
 python3 setup.py install
 ```
