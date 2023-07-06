@@ -19,50 +19,64 @@ We also use the **Keccak-256** cryptographic hash function for VO generation.
 
 * In step 4, $SP$ offers a verifiable query API to users. Given a user query $Q$, $SP$ searches the index to obtain $I_q$ and $R$, then generates $VO_{sp}$ for $I_q$ based on the ADS. Upon receiving $\{R, I_q, VO_{sp}\}$ from $SP$, the client user retrieves $VO_{chain}$. Combining the two cryptographic proofs, $VO_{sp}$ and $VO_{chain}$, the user can verify $I_q$'s correctness and subsequently execute a local search algorithm to validate $R$.
 
+* For more details, please refer to our paper.
+
 ![image](</picture/architecture.JPG>)
+
+# Prerequisites
+
+**Our development environment**：We develop the program in Ubuntu 20.04.4 Trusty operating system. The code may not be compatible with compilation on Windows.
+
+1. A modern compiler that supports C++11: G++ 4.7, Intel compiler 14, Clang 3.4, or Visual Studio 14 (version 12 can probably be used as well, but the project files need to be downgraded).
+
+2. **64-bit** Linux is recommended, but most of our code builds on **64-bit** Windows and MACOS as well. 
+
+3. Only for Linux/MACOS: CMake (GNU make is also required) 
+
+4. An Intel or AMD processor that supports SSE 4.2 is recommended
+
+5. Extended version of the library requires a development version of the following libraries: Boost, GNU scientific library, and Eigen3.
+   To install additional prerequisite packages on Ubuntu, type the following
+   
+   ```
+   sudo apt-get install libboost-all-dev libgsl0-dev libeigen3-dev
+   ```
 
 # Quick Start
 
-First you can install vnmslib from source and compile the source code.
+##### 1.First, you can install vnmslib from source and compile the source code.
 
-Then you can use vnmslib in python.
-
-
-
-1.**Start the distributed Fabric network**：we have a cluster of IP 226,227,228,229,230
-
-The network configuration is in [baseline directory](/baseline) 
-
-```shell
-230
-cd /home/ubuntu/local-user-name/fabric-v1.4/2org1peercouchdb
-docker-compose -f org1-230-couch.yaml up -d
-229
-cd /home/ubuntu/local-user-name/fabric-v1.4/2org1peercouchdb
-docker-compose -f org1-229-1.4.0.yaml up -d
-228
-cd /home/ubuntu/local-user-name/fabric-v1.4/2org1peercouchdb
-docker-compose -f org2-228-1.4.0.yaml up -d
-227 
-cd /home/ubuntu/local-user-name
-docker-compose -f org2-227-couch.yaml up -d
-226
-cd /home/local-user-name/caliper/packages/caliper-samples/network/fabric-v1.4/2org1peercouchdb
-docker-compose -f ca-orderer.yaml up -d
+```
+git clone https://github.com/lulinglingcufe/vnmslib.git
 ```
 
-2.**Create mychannel**:
+Make sure you satisfy the above prerequisites. To compile, go to the directory **source/similarity_search** and type:
 
 ```shell
-229
-docker exec -e "CORE_PEER_MSPCONFIGPATH=/etc/hyperledger/msp/users/Admin@org1.example.com/msp" peer0.org1.example.com peer channel create -o orderer.example.com:7050 -c mychannel -f /etc/hyperledger/configtx/mychannel.tx
+cmake .
+make 
+```
 
-docker exec -e "CORE_PEER_MSPCONFIGPATH=/etc/hyperledger/msp/users/Admin@org1.example.com/msp" peer0.org1.example.com peer channel fetch config -o orderer.example.com:7050 -c mychannel mychannel.block
+###### 2.Then, you must compile the customized nmslib package we developed to use it within Python3.
 
-docker exec -e "CORE_PEER_MSPCONFIGPATH=/etc/hyperledger/msp/users/Admin@org1.example.com/msp" peer0.org1.example.com peer  channel join -b mychannel.block
+To compile, go to the directory **source/python_bindings*** and type:
 
-228
-docker exec -e "CORE_PEER_MSPCONFIGPATH=/etc/hyperledger/msp/users/Admin@org2.example.com/msp" peer0.org2.example.com peer channel fetch config -o orderer.example.com:7050 -c mychannel mychannel.block
+```
+rm -R -f build
+rm -R -f dist
+rm -R -f nmslib.egg-info
+rm -R -f similarity_search
+cp -R ./similarity_search/  ./python_bindings/
+pip3 uninstall  nmslib  -y
+python3 setup.py install
+```
 
-docker exec -e "CORE_PEER_MSPCONFIGPATH=/etc/hyperledger/msp/users/Admin@org2.example.com/msp" peer0.org2.example.com peer  channel join -b mychannel.block
+Delete the old compilation intermediate files, then copy the '**source/similarity_search**' folder to the '**source/python_bindings**' folder. Make sure that **pip3** has removed the old version of nmslib. Finally, use the **setup.py** script to install the customized version of nmslib.
+
+###### 3.Finally, you can use vnmslib in python.
+
+Go to the directory **experiment** and type:
+
+```
+python3   hnsw_6_19_glove.py
 ```
