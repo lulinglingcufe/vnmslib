@@ -1,0 +1,26 @@
+
+===================================
+hnsw
+Index parameters:      
+Query-time parameters: 
+===================================
+# of points: 9990
+# of queries: 5
+------------------------------------
+Recall:            1 -> [1 1]
+Recall@1:          1 -> [1 1]
+PrecisionOfApprox: 1 -> [1 1]
+ClassAccuracy:     0 -> [0 0]
+RelPosError:       1 -> [1 	1]
+NumCloser:         0 -> [0 	0]
+------------------------------------
+QueryTime:         0.15 -> [0.15 	0.16]
+QueryPerSec:       6605.02 -> [6605.02 	6605.02]
+DistComp:          0 -> [-0 	0]
+------------------------------------
+ImprEfficiency:    3.29 -> [3.29 	3.29]
+ImprDistComp:      inf -> [inf 	inf]
+------------------------------------
+Memory Usage:      299.77 MB
+Index Time:        0.38 sec
+------------------------------------

@@ -1,0 +1,357 @@
+[
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/Keccak256.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/Keccak256.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/Keccak256.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/distcomp_bregman.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_bregman.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_bregman.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/distcomp_diverg.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_diverg.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_diverg.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/distcomp_edist.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_edist.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_edist.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/distcomp_js.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_js.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_js.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/distcomp_l2sqr_sift.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_l2sqr_sift.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_l2sqr_sift.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/distcomp_lp.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_lp.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_lp.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/distcomp_overlap.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_overlap.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_overlap.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/distcomp_rankcorr.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_rankcorr.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_rankcorr.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/distcomp_scalar.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_scalar.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_scalar.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/distcomp_sparse_scalar_fast.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_sparse_scalar_fast.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/distcomp_sparse_scalar_fast.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/experimentconf.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/experimentconf.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/experimentconf.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/global.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/global.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/global.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/init.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/init.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/init.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/knnquery.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/knnquery.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/knnquery.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/logging.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/logging.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/logging.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/memory.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/memory.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/memory.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/params.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/params.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/params.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/params_cmdline.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/params_cmdline.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/params_cmdline.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/query.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/query.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/query.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/rangequery.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/rangequery.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/rangequery.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/searchoracle.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/searchoracle.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/searchoracle.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/utils.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/utils.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/utils.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_ab_diverg.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_ab_diverg.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_ab_diverg.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_bregman.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_bregman.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_bregman.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_dummy.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_dummy.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_dummy.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_js.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_js.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_js.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_l2sqr_sift.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_l2sqr_sift.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_l2sqr_sift.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_lp.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_lp.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_lp.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_renyi_diverg.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_renyi_diverg.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_renyi_diverg.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_scalar.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_scalar.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_scalar.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_sparse_dense_fusion.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_dense_fusion.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_dense_fusion.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_sparse_jaccard.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_jaccard.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_jaccard.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_sparse_lp.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_lp.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_lp.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_sparse_scalar_bin_fast.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_scalar_bin_fast.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_scalar_bin_fast.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_sparse_scalar_fast.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_scalar_fast.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_scalar_fast.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_sparse_vector.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_vector.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_vector.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_sparse_vector_inter.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_vector_inter.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_sparse_vector_inter.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_string.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_string.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_string.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_vector.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_vector.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_vector.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/space/space_word_embed.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_word_embed.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/space/space_word_embed.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/method/dummy.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/method/dummy.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/method/dummy.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/method/hnsw.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/method/hnsw.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/method/hnsw.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/method/hnsw_distfunc_opt.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/method/hnsw_distfunc_opt.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/method/hnsw_distfunc_opt.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/method/pivot_neighb_invindx.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/method/pivot_neighb_invindx.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/method/pivot_neighb_invindx.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/method/seqsearch.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/method/seqsearch.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/method/seqsearch.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/method/simple_inverted_index.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/method/simple_inverted_index.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/method/simple_inverted_index.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/method/small_world_rand.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/method/small_world_rand.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/method/small_world_rand.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/src",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/NonMetricSpaceLib.dir/method/vptree.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/src/method/vptree.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/src/method/vptree.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/apps",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/tune_vptree.dir/tune_vptree.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/apps/tune_vptree.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/apps/tune_vptree.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/apps",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/experiment.dir/main.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/apps/main.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/apps/main.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/apps",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/dummy_app.dir/dummy_app.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/apps/dummy_app.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/apps/dummy_app.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/apps",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bench_distfunc.dir/bench_distfunc.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/apps/bench_distfunc.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/apps/bench_distfunc.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/test_integr.dir/test_integr.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_integr.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_integr.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/bunit.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/bunit.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/bunit.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_distfunc.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_distfunc.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_distfunc.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_editdist.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_editdist.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_editdist.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_eval.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_eval.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_eval.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_falconn_heap.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_falconn_heap.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_falconn_heap.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_fp.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_fp.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_fp.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_lpnorm.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_lpnorm.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_lpnorm.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_object.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_object.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_object.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_overlap.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_overlap.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_overlap.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_pow.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_pow.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_pow.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_some_stat.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_some_stat.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_some_stat.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_space_scalar.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_space_scalar.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_space_scalar.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_space_serial.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_space_serial.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_space_serial.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_sqfd.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_sqfd.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_sqfd.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_thread_pool.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_thread_pool.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_thread_pool.cc"
+},
+{
+  "directory": "/home/ubuntu/lulingling/nmslib/similarity_search/build/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/lulingling/nmslib/similarity_search/include -I/home/ubuntu/lulingling/nmslib/similarity_search/include/space  -Wall -Wunreachable-code -Wcast-align -ggdb  -lm -DNDEBUG -std=c++11 -pthread  -DHAVE_CXX0X  -march=native -Wl,--no-as-needed -fpic   -o CMakeFiles/bunit.dir/test_timer.cc.o -c /home/ubuntu/lulingling/nmslib/similarity_search/test/test_timer.cc",
+  "file": "/home/ubuntu/lulingling/nmslib/similarity_search/test/test_timer.cc"
+}
+]
