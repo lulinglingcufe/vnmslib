@@ -1,0 +1,189 @@
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: dummy distance type: INT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: dummy distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: bit_hamming distance type: INT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: bit_jaccard distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: leven distance type: INT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: normleven distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: kldivfast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: kldivfastrq distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: kldivgenfast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: kldivgenslow distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: kldivgenfastrq distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: itakurasaitofast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: jsdivslow distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: jsdivfast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: jsdivfastapprox distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: jsmetrslow distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: jsmetrfast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: jsmetrfastapprox distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: word_embed distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: lp distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: linf distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: l1 distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: l2 distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: cosinesimil distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: angulardist distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: negdotprod distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: lp_sparse distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: linf_sparse distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: l1_sparse distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: l2_sparse distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: cosinesimil_sparse distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: angulardist_sparse distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: negdotprod_sparse distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: cosinesimil_sparse_fast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: cosinesimil_sparse_bin_fast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: angulardist_sparse_fast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: negdotprod_sparse_fast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: negdotprod_sparse_bin_fast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: querynorm_negdotprod_sparse_fast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: jaccard_sparse distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: abdiv_slow distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: abdiv_fast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: renyidiv_slow distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: renyidiv_fast distance type: FLOAT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: l2sqr_sift distance type: INT
+2023-01-04 07:32:39 spacefactory.h:42 (Register) [INFO] Registering at the factory, space: sparse_dense_fusion distance type: FLOAT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: dummy distance type: FLOAT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: dummy distance type: INT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: pivot_neighb_invindx distance type: FLOAT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: pivot_neighb_invindx distance type: INT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: napp distance type: FLOAT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: napp distance type: INT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: brute_force distance type: FLOAT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: brute_force distance type: INT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: seq_search distance type: FLOAT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: seq_search distance type: INT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: sw-graph distance type: FLOAT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: sw-graph distance type: INT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: small_world_rand distance type: FLOAT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: small_world_rand distance type: INT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: hnsw distance type: FLOAT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: hnsw distance type: INT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: vptree distance type: INT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: vptree distance type: FLOAT
+2023-01-04 07:32:39 methodfactory.h:48 (Register) [INFO] Registering at the factory, method: simple_invindx distance type: FLOAT
+2023-01-04 07:32:39 main.cc:584 (main) [INFO] Program arguments are processed
+2023-01-04 07:32:39 main.cc:154 (RunExper) [INFO] ### Append? : 0
+2023-01-04 07:32:39 main.cc:155 (RunExper) [INFO] ### OutFilePrefix : result
+2023-01-04 07:32:39 experimentconf.cc:413 (ReadDataset) [INFO] data & query .... ok!
+
+2023-01-04 07:32:39 gold_standard.h:235 (Compute) [INFO] Computing gold standard data using 1 threads, keeping 10x entries compared to the result set size
+2023-01-04 07:32:39 main.cc:336 (RunExper) [INFO] >>>> Test set id: 0 (set qty: 1)
+2023-01-04 07:32:39 main.cc:346 (RunExper) [INFO] >>>> Index type : hnsw
+2023-01-04 07:32:39 main.cc:347 (RunExper) [INFO] >>>> Index Time Parameters: M=24,efConstruction=100,indexThreadQty=1,searchMethod=3
+2023-01-04 07:32:39 main.cc:366 (RunExper) [INFO] Creating an index from scratch
+2023-01-04 07:32:39 hnsw.cc:210 (CreateIndex) [INFO] M                   = 24
+2023-01-04 07:32:39 hnsw.cc:211 (CreateIndex) [INFO] indexThreadQty      = 1
+2023-01-04 07:32:39 hnsw.cc:212 (CreateIndex) [INFO] efConstruction      = 100
+2023-01-04 07:32:39 hnsw.cc:213 (CreateIndex) [INFO] maxM			          = 24
+2023-01-04 07:32:39 hnsw.cc:214 (CreateIndex) [INFO] maxM0			          = 48
+2023-01-04 07:32:39 hnsw.cc:216 (CreateIndex) [INFO] mult                = 0.314658
+2023-01-04 07:32:39 hnsw.cc:217 (CreateIndex) [INFO] skip_optimized_index= 0
+2023-01-04 07:32:39 hnsw.cc:218 (CreateIndex) [INFO] delaunay_type       = 2
+2023-01-04 07:32:39 hnsw.cc:505 (SetQueryTimeParams) [INFO] Set HNSW query-time parameters:
+2023-01-04 07:32:39 hnsw.cc:506 (SetQueryTimeParams) [INFO] ef(Search)         =20
+2023-01-04 07:32:39 hnsw.cc:507 (SetQueryTimeParams) [INFO] algoType           =2
+2023-01-04 07:32:40 hnsw.cc:376 (CreateIndex) [INFO] 
+The space is Euclidean
+2023-01-04 07:32:40 hnsw.cc:378 (CreateIndex) [INFO] Vector length=128
+2023-01-04 07:32:40 hnsw.cc:380 (CreateIndex) [INFO] Thus using an optimised function for base 16
+2023-01-04 07:32:40 hnsw.cc:416 (CreateIndex) [INFO] searchMethod			  = 3
+2023-01-04 07:32:40 hnsw.cc:428 (CreateIndex) [INFO] Making optimized index
+2023-01-04 07:32:40 hnsw.cc:467 (CreateIndex) [INFO] Finished making optimized index
+2023-01-04 07:32:40 hnsw.cc:468 (CreateIndex) [INFO] Maximum level = 3
+2023-01-04 07:32:40 hnsw.cc:469 (CreateIndex) [INFO] Total memory allocated for optimized index+data: 6 Mb
+2023-01-04 07:32:40 hnsw.cc:470 (CreateIndex) [INFO] ElList_.size() = 9997
+2023-01-04 07:32:40 main.cc:376 (RunExper) [INFO] ==============================================
+2023-01-04 07:32:40 main.cc:402 (RunExper) [INFO] >>>> Process memory usage:  39.2734 MBs
+2023-01-04 07:32:40 main.cc:403 (RunExper) [INFO] >>>> Virtual memory usage:  17.6353 MBs
+2023-01-04 07:32:40 main.cc:404 (RunExper) [INFO] >>>> Adjusted memory usage: 17.6353 MBs
+2023-01-04 07:32:40 main.cc:405 (RunExper) [INFO] >>>> Data size:             4.88135 MBs
+2023-01-04 07:32:40 main.cc:406 (RunExper) [INFO] >>>> Indexing time:         0.684505 sec
+2023-01-04 07:32:40 main.cc:407 (RunExper) [INFO] >>>> Index loading time:    0 sec
+2023-01-04 07:32:40 main.cc:408 (RunExper) [INFO] >>>> Index saving  time:    1e-06 sec
+2023-01-04 07:32:40 main.cc:409 (RunExper) [INFO] >>>> Keccak256::HASH_LEN_TEST:    32 sec
+2023-01-04 07:32:40 main.cc:416 (RunExper) [INFO] >>>> Keccak256::testrotl64:    100 sec
+2023-01-04 07:32:40 experiments.h:74 (RunAll) [INFO] >>>> TestSetId: 0
+2023-01-04 07:32:40 experiments.h:75 (RunAll) [INFO] >>>> Will use: 1 threads in efficiency testing
+2023-01-04 07:32:40 experimentconf.cc:418 (PrintInfo) [INFO] SpaceLp: p = 2 do we have a special implementation for this p? : 1
+2023-01-04 07:32:40 experimentconf.cc:419 (PrintInfo) [INFO] distance type         = FLOAT
+2023-01-04 07:32:40 experimentconf.cc:420 (PrintInfo) [INFO] data file             = ../sample_data/final128_10K.txt
+2023-01-04 07:32:40 experimentconf.cc:421 (PrintInfo) [INFO] # of test sets        = 1
+2023-01-04 07:32:40 experimentconf.cc:422 (PrintInfo) [INFO] # of test sets to run = 1
+2023-01-04 07:32:40 experimentconf.cc:423 (PrintInfo) [INFO] Use held-out queries  = 0
+2023-01-04 07:32:40 experimentconf.cc:424 (PrintInfo) [INFO] # of data points      = 9997
+2023-01-04 07:32:40 experimentconf.cc:425 (PrintInfo) [INFO] # of query points     = 3
+2023-01-04 07:32:40 experiments.h:119 (Execute) [INFO] ##### Query type: K-NN
+2023-01-04 07:32:40 experiments.h:120 (Execute) [INFO] >>>> query params = K = 10 Epsilon = 0
+2023-01-04 07:32:40 experiments.h:121 (Execute) [INFO] >>>> Computing efficiency metrics 
+2023-01-04 07:32:40 experiments.h:122 (Execute) [INFO] >>>> # of query time parameters: 1
+2023-01-04 07:32:40 hnsw.cc:505 (SetQueryTimeParams) [INFO] Set HNSW query-time parameters:
+2023-01-04 07:32:40 hnsw.cc:506 (SetQueryTimeParams) [INFO] ef(Search)         =50
+2023-01-04 07:32:40 hnsw.cc:507 (SetQueryTimeParams) [INFO] algoType           =2
+2023-01-04 07:32:40 experiments.h:155 (Execute) [INFO] >>>> Query-Time Parameters: efSearch=50
+2023-01-04 07:32:40 experiments.h:157 (Execute) [INFO] >>>> Efficiency test for: hnsw
+2023-01-04 07:32:40 hnsw_distfunc_opt.cc:350 (SearchV1Merge) [INFO] nodeCount: 183
+2023-01-04 07:32:40 hnsw_distfunc_opt.cc:350 (SearchV1Merge) [INFO] nodeCount: 324
+2023-01-04 07:32:40 hnsw_distfunc_opt.cc:350 (SearchV1Merge) [INFO] nodeCount: 729
+2023-01-04 07:32:40 experiments.h:222 (Execute) [INFO] >>>> Computing effectiveness metrics for hnsw
+2023-01-04 07:32:40 experiments.h:269 (Execute) [INFO] =========================================
+2023-01-04 07:32:40 experiments.h:270 (Execute) [INFO] >>>> Index type is hnsw
+2023-01-04 07:32:40 experiments.h:271 (Execute) [INFO] =========================================
+2023-01-04 07:32:40 experiments.h:272 (Execute) [INFO] >>>> max # results = 10
+2023-01-04 07:32:40 experiments.h:273 (Execute) [INFO] >>>> avg # results = 10
+2023-01-04 07:32:40 experiments.h:274 (Execute) [INFO] >>>> # of distance computations = 0
+2023-01-04 07:32:40 experiments.h:275 (Execute) [INFO] >>>> Impr in # of dist comp: inf
+2023-01-04 07:32:40 experiments.h:276 (Execute) [INFO] =========================================
+2023-01-04 07:32:40 experiments.h:277 (Execute) [INFO] >>>> Time elapsed:           0.000579 sec
+2023-01-04 07:32:40 experiments.h:278 (Execute) [INFO] >>>> # of queries per sec: : 5181.35
+2023-01-04 07:32:40 experiments.h:279 (Execute) [INFO] >>>> Avg time per query:     1.93e-07 msec
+2023-01-04 07:32:40 experiments.h:280 (Execute) [INFO] >>>> System time elapsed:    0 sec
+2023-01-04 07:32:40 experiments.h:281 (Execute) [INFO] =========================================
+2023-01-04 07:32:40 experiments.h:298 (Execute) [INFO] =========================================
+2023-01-04 07:32:40 experiments.h:299 (Execute) [INFO] >>>> # of test threads:              1
+2023-01-04 07:32:40 experiments.h:300 (Execute) [INFO] >>>> Seq. search time elapsed:       0.001335 sec
+2023-01-04 07:32:40 experiments.h:301 (Execute) [INFO] >>>> Avg Seq. search time per query: 0.445 msec
+2023-01-04 07:32:40 experiments.h:302 (Execute) [INFO] >>>> Impr. in Efficiency = 2.3057
+2023-01-04 07:32:40 experiments.h:303 (Execute) [INFO] >>>> Recall              = 1
+2023-01-04 07:32:40 experiments.h:304 (Execute) [INFO] >>>> PrecisionOfApprox   = 1
+2023-01-04 07:32:40 experiments.h:305 (Execute) [INFO] >>>> RelPosError         = 1
+2023-01-04 07:32:40 experiments.h:306 (Execute) [INFO] >>>> NumCloser           = 0
+2023-01-04 07:32:40 experiments.h:307 (Execute) [INFO] >>>> RecallAt1           = 1
+2023-01-04 07:32:40 experiments.h:308 (Execute) [INFO] >>>> Class. accuracy     = 0
+2023-01-04 07:32:40 experiments.h:312 (Execute) [INFO] #### Finished K-NN 2023-01-04 07:32:40
+2023-01-04 07:32:40 experiments.h:103 (RunAll) [INFO] experiment done at 2023-01-04 07:32:40
+2023-01-04 07:32:40 main.cc:497 (RunExper) [INFO] KNN: 10
+2023-01-04 07:32:40 main.cc:498 (RunExper) [INFO] 
+===================================
+hnsw
+Index parameters:      M=24,efConstruction=100,indexThreadQty=1,searchMethod=3
+Query-time parameters: efSearch=50
+===================================
+# of points: 9997
+# of queries: 3
+------------------------------------
+Recall:            1 -> [1 1]
+Recall@1:          1 -> [1 1]
+PrecisionOfApprox: 1 -> [1 1]
+ClassAccuracy:     0 -> [0 0]
+RelPosError:       1 -> [1 	1]
+NumCloser:         0 -> [0 	0]
+------------------------------------
+QueryTime:         0.19 -> [0.13 	0.25]
+QueryPerSec:       5181.35 -> [5181.35 	5181.35]
+DistComp:          0 -> [-0 	0]
+------------------------------------
+ImprEfficiency:    2.31 -> [2.31 	2.31]
+ImprDistComp:      inf -> [inf 	inf]
+------------------------------------
+Memory Usage:      17.64 MB
+Index Time:        0.68 sec
+------------------------------------
+
+2023-01-04 07:32:40 main.cc:499 (RunExper) [INFO] Data: MethodName	Recall	Recall@1	PrecisionOfApprox	RelPosError	NumCloser	ClassAccuracy	QueryTime	DistComp	ImprEfficiency	ImprDistComp	Mem	IndexTime	IndexLoadTime	IndexSaveTime	QueryPerSec	IndexParams	QueryTimeParams	NumData
+"hnsw"	1	1	1	1	0	0	0.191667	0	2.3057	inf	17	0.684505	0	1e-06	5181.35	"M=24,efConstruction=100,indexThreadQty=1,searchMethod=3"	"efSearch=50"	9997
+
+2023-01-04 07:32:40 main.cc:59 (OutData) [INFO] DoAppend? 0
+2023-01-04 07:32:40 main.cc:641 (main) [INFO] Time elapsed = 0.867273
+2023-01-04 07:32:40 main.cc:642 (main) [INFO] Finished at 2023-01-04 07:32:40

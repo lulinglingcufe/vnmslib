@@ -1,0 +1,2 @@
+MethodName	Recall	Recall@1	PrecisionOfApprox	RelPosError	NumCloser	ClassAccuracy	QueryTime	DistComp	ImprEfficiency	ImprDistComp	Mem	IndexTime	IndexLoadTime	IndexSaveTime	QueryPerSec	IndexParams	QueryTimeParams	NumData
+"hnsw"	1	1	1	1	0	0	0.1504	0	3.29326	inf	299	0.376018	0	1e-06	6605.02	""	""	9990
