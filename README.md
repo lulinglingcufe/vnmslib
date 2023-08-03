@@ -81,7 +81,7 @@ Delete the old compilation intermediate files, then copy the '**source/similarit
 
 #### 3.Finally, you can use vnmslib in python.
 
-Go to the directory **experiment** and type:
+Go to the directory **experiment/hnsw** and type:
 
 ```
 python3   hnsw_6_19_glove.py
