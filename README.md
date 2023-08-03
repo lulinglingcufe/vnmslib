@@ -63,7 +63,7 @@ cmake .
 make 
 ```
 
-##### 2.Then, you must compile the customized nmslib package we developed to use it within Python3.
+#### 2.Then, you must compile the customized nmslib package we developed to use it within Python3.
 
 To compile, go to the directory **source/python_bindings*** and type:
 
@@ -79,7 +79,7 @@ python3 setup.py install
 
 Delete the old compilation intermediate files, then copy the '**source/similarity_search**' folder to the '**source/python_bindings**' folder. Make sure that **pip3** has removed the old version of nmslib. Finally, use the **setup.py** script to install the customized version of nmslib.
 
-##### 3.Finally, you can use vnmslib in python.
+#### 3.Finally, you can use vnmslib in python.
 
 Go to the directory **experiment** and type:
 
