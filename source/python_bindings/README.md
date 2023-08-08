@@ -1,4 +1,4 @@
-# Python bindings for NMSLIB
+# Python bindings for VNMSLIB
 
 
 ## Installation
